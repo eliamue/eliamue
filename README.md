@@ -1,5 +1,7 @@
-✧ Zesty, creative collaborator ✧
+<h2>✧ Zesty, creative collaborator ✧</h2>
+<br>
 My goal is to combine my background experience with my ever-developing tech skills in software development to improve the inclusivity, beauty, and accessibility of technology. 
+<br>
 I am passionate about building dynamic apps and web experiences that accommodate the needs of marginalized communities that have long been excluded from innovative technology.
 
 <!--
