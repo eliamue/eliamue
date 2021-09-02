@@ -1,4 +1,4 @@
-<h2> <strong>Creative, <i>zesty</i> collaborator</strong> </h2>
+<h2>🍂 <strong>Creative, <i>zesty</i> collaborator</strong></h2>
 <br>
 <p>
    ✧ My goal is to combine my background experience with my ever-developing tech skills in software development to improve the inclusivity, beauty, and accessibility of technology. 
