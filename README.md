@@ -1,4 +1,6 @@
-### Hi there 👋
+✧ Zesty, creative collaborator ✧
+My goal is to combine my background experience with my ever-developing tech skills in software development to improve the inclusivity, beauty, and accessibility of technology. 
+I am passionate about building dynamic apps and web experiences that accommodate the needs of marginalized communities that have long been excluded from innovative technology.
 
 <!--
 **eliamue/eliamue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
